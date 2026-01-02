@@ -39,9 +39,16 @@
     "Lua.workspace.library": [
         "f:/Stormworks Projects/",
         "c:/Users/alex/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Common/",
-        "c:/Users/alex/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Addon/",
+        "c:/Users/alex/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Microcontroller/",
         "f:/Stormworks Projects/_build/libs/"
     ],
     "lifeboatapi.stormworks.user.authorName": "AlexRS",
-    "lifeboatapi.stormworks.user.githubLink": "https://github.com/A1exRS/Stormworks-Microcontroller-Projects"
+    "lifeboatapi.stormworks.user.githubLink": "https://github.com/A1exRS/Stormworks-Microcontroller-Projects",
+    "lifeboatapi.stormworks.libs.gitLibraries": [
+        {
+            "name": "LifeBoatAPI",
+            "gitUrl": "https://github.com/nameouschangey/Stormworks_LifeBoatAPI_MC.git"
+        }
+    ],
+    "lifeboatapi.stormworks.minimizer.skipCombinedFileOutput": true
 }
